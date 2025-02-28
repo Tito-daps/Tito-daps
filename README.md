@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Leonard Tito Njiru a student in Riara University and studying Computer Science.
+As I am still learning programming, my goal in programming is becoming a pro game developer.
+Currently I'm learning C++ and front end languages.
+My contacts are:
+Phone- +254790112068
+Email- leonardtitooo@gmail.com
